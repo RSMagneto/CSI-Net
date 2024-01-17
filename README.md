@@ -15,5 +15,5 @@ PIN：csin
 ## :speech_balloon: References
 Appreciate the work from the following repositories:
 
-- https://github.com/justchenhao/ChangeFormer (Our CSI-Net is implemented on the code provided in this repository)
+- https://github.com/wgcban/ChangeFormer (Our CSI-Net is implemented on the code provided in this repository)
 
