@@ -1,6 +1,6 @@
 # CSI-Net
 PyTorch implementation of Content-Guided Spatial-Spectral Integration Network for Change Detection in HR Remote Sensing Images by Y. Liu et al.
-we only upload the model of CSI-Net,
+
 
 
 #### Trained models, and our dataset setting
